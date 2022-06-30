@@ -27,6 +27,21 @@ Link del mapa mental: https://www.canva.com/design/DAFFBwhXoU8/0i2ya9_eV-q7b7re-
 
 3.Requisitos previos
 
+![image](https://user-images.githubusercontent.com/105687375/176583360-89152c2e-65c0-44ac-827b-dada90702fc3.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176583474-134ec70a-84d8-4d1e-b9fb-1b777ea532b2.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176583528-bdfa7d08-f0f6-49e5-b4c8-2d90048351a3.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176583566-58c23659-8631-47b3-968f-962e9eedefab.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176583598-2abbbb8f-c566-440a-b852-8a27b7408686.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176583671-ea158df2-1866-4f42-b144-e655f9ea42ea.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176583704-510a116e-0cbf-4117-99a1-72cdca6cffc4.png)
+
+![image](https://user-images.githubusercontent.com/105687375/176583721-70aba312-b52f-4e54-854d-7f5dfda51b18.png)
 
 4.Materiales y equipos requeridos
 
