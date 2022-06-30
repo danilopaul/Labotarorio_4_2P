@@ -35,8 +35,6 @@ Link del mapa mental: https://www.canva.com/design/DAFFBwhXoU8/0i2ya9_eV-q7b7re-
 
 ![image](https://user-images.githubusercontent.com/105687375/176583566-58c23659-8631-47b3-968f-962e9eedefab.png)
 
-![image](https://user-images.githubusercontent.com/105687375/176583598-2abbbb8f-c566-440a-b852-8a27b7408686.png)
-
 ![image](https://user-images.githubusercontent.com/105687375/176583671-ea158df2-1866-4f42-b144-e655f9ea42ea.png)
 
 ![image](https://user-images.githubusercontent.com/105687375/176583704-510a116e-0cbf-4117-99a1-72cdca6cffc4.png)
