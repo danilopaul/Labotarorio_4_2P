@@ -15,6 +15,10 @@ Determinar y analizar los pasos que conforman el teorema   de   superposición, 
 
 1.2 Objetivo  Especificos
 
+- Analizar el comportamiento de la resistencia interna tanto en una fuente de voltaje o de tensión y a su vez en una fuente de corriente presente en un circuito.
+- Relacionar dicho comportamiento de la resistencia interna en la aplicación del teorema de superposición para comprender su proceso de resolución.
+- Comprobar por medio de una simulación, si los cálculos tras aplicar el teorema de superposición concuerdan con los resultados de la simulación.
+
 
 2.Marco teorico.
 
