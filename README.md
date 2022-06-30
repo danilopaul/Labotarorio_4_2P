@@ -108,12 +108,17 @@ Tablas
 ![image](https://user-images.githubusercontent.com/105687213/176605673-d934aed7-ede6-459b-b169-157b52ab7656.png)
 
 Calculo de errores de las mediciones 
+
 Error VA=(950-952)/950*(100%)                         Error VA=0.21%
+
 Error VA (V2=0)=(7.47-5.70)/7.47*(100%)     Error VA (V2=0)=23.69%
+
 Error VA (V1=0)=(6.52-6.53)/6.52*(100%)    Error VA (V1=0)=0.15%
 
 Error Ix=(25.53-25.5)/25.5*(100%)                       Error Ix=0.11%
+
 Error Ix(V2=0)=(0-25.5)/25.5*(100%)            Error Ix (V2=0)=1%
+
 Error Ix(V1=0)=(25.53-25.5)/25.5*(100%)     Error Ix (V1=0)=0.11%
 
 
