@@ -41,6 +41,9 @@ Link del mapa mental: https://www.canva.com/design/DAFFBwhXoU8/0i2ya9_eV-q7b7re-
 
 ![image](https://user-images.githubusercontent.com/105687375/176583721-70aba312-b52f-4e54-854d-7f5dfda51b18.png)
 
+![image](https://user-images.githubusercontent.com/105687213/176612933-5112980e-a182-412e-b0f1-7ebf23e25196.png)
+
+
 4.Materiales y equipos requeridos
 
 ![image](https://user-images.githubusercontent.com/105684550/176568300-a6bae813-85b6-4c32-b05c-dbf160cfe379.png)
