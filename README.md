@@ -23,7 +23,6 @@ Determinar y analizar los pasos que conforman el teorema   de   superposición, 
 2.Marco teorico.
 
 ![image](https://user-images.githubusercontent.com/105684550/176568097-9b272cf8-718d-4717-b79f-f1c7412c1c9e.png)
-
 Link del mapa mental: https://www.canva.com/design/DAFFBwhXoU8/0i2ya9_eV-q7b7re-UOfHQ/view?utm_content=DAFFBwhXoU8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 3.Requisitos previos
