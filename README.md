@@ -9,7 +9,7 @@
  
 1.Objetivo
 
-1.1 Objetivo General.
+1.1 Objetivo General
 
 Determinar y analizar los pasos que conforman el teorema   de   superposición, para aplicarlos en la creación de circuitos la resolución de ejercicios prácticos, mediante el planeamiento de ecuación que cumplan con las leyes básicas (Ley de ohm y Ley de Kirchhoff).  
 
