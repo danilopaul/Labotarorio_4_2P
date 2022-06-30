@@ -47,11 +47,64 @@ Link del mapa mental: https://www.canva.com/design/DAFFBwhXoU8/0i2ya9_eV-q7b7re-
 
 5.Procedimiento
 
+Teorema de superposición
 
+![image](https://user-images.githubusercontent.com/105687375/176597138-2c14e6c4-d7ce-4a66-9b5f-b6d006b4b599.png)
+
+Cuando V2=0
+
+En la resistencia 4 no se divide la corriente por lo cual no se le toma en cuenta.
+
+Aplicamos el método:
+
+Tensiones en los nodos:
+
+I_1+I_2+I_3=0
+
+(V_A-V_1)/1000Ω+V_A/820Ω+V_A/2200Ω+0=0
+
+V_A (1/1000+1/820+1/2200)-20/1000=0
+
+V_A (603/225500)=20/1000=V_A=(20/1000)/(603/225500)=7.47 V
+I_X=0
+
+Cuando V_1=0
+
+El circuito es el siguiente:
+
+![image](https://user-images.githubusercontent.com/105687375/176597212-8bf69d78-7240-4d6e-b8f2-f6521bf44e98.png)
+
+R_2equ=(R_1*R_2)/(R_1+R_2 )=(1kΩ*2.2kΩ)/(1kΩ+2.2kΩ)=0.69kΩ
+
+ R_3equ=R_2equ+R_3=0.69kΩ+0.82kΩ=1.51kΩ
+ 
+R_T=(R_3*R_4)/(R_3+R_4 )=(1.51kΩ*0.47kΩ)/(1.5kΩ+0.47kΩ)=0.3584kΩ
+
+Entonces el V_A
+
+V_A=(V_S/(R_3+R_2equ ))*R_3=(12V/(0.82+0.69))*(0.82)
+
+V_A=6.52 V
+
+La corriente total es:
+
+I_T=(V_S/R_T )=12V/0.3584kΩ=33.48mA
+
+Por lo tanto la corriente I_X=
+
+I_T=(V_S/R_4 )=12V/0.47kΩ=25.53 mA
+
+Se obtiene que:
+
+V_AT=7.47V-6.52V=0.95V
+
+V_AT=950 mV
+
+I_T=25.53mA+0=25.53 mA.
 
 6.Video
 
-
+https://youtu.be/Of6-pmOZemE
 
 7.Conclusiones:
 
