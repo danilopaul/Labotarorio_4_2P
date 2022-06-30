@@ -11,7 +11,7 @@
 
 1.1 Objetivo General
 
-Determinar y analizar los pasos que conforman el teorema   de   superposición, para aplicarlos en la creación de circuitos la resolución de ejercicios prácticos, mediante el planeamiento de ecuación que cumplan con las leyes básicas (Ley de ohm y Ley de Kirchhoff).  
+Determinar y analizar los pasos que conforman el teorema   de   superposición, para aplicarlos en la creación de circuitos la resolución de ejercicios prácticos, mediante el planteamiento de ecuación que cumplan con las leyes básicas (Ley de ohm y Ley de Kirchhoff).  
 
 1.2 Objetivo  Especificos
 
@@ -54,6 +54,12 @@ Link del mapa mental: https://www.canva.com/design/DAFFBwhXoU8/0i2ya9_eV-q7b7re-
 
 
 7.Conclusiones:
+•	Se concluye que cuando en un circuito existen dos fuentes de voltaje o más se utiliza el teorema de superposición, para ello se debe realizar una serie de pasos, para sí obtener los valores calculados de cada voltaje.
+
+•	Tal y como se ha podido comprobar, los datos calculados con los datos medidos llegan a variar con un mínimo porciento de error.
+
+•	Finalmente, en el teorema de superposición se puede aplicar varios métodos de solución, como en este caso se aplicó tensión en los nodos, ley de ohm, divisoR de voltajes, entre otros.
+
 
 
 8.Bibliografía
