@@ -54,6 +54,7 @@ Link del mapa mental: https://www.canva.com/design/DAFFBwhXoU8/0i2ya9_eV-q7b7re-
 
 
 7.Conclusiones:
+
 •	Se concluye que cuando en un circuito existen dos fuentes de voltaje o más se utiliza el teorema de superposición, para ello se debe realizar una serie de pasos, para sí obtener los valores calculados de cada voltaje.
 
 •	Tal y como se ha podido comprobar, los datos calculados con los datos medidos llegan a variar con un mínimo porciento de error.
